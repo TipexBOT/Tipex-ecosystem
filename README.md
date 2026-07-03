@@ -1,5 +1,6 @@
 # TIPEX BOT
 
+Official CA : FtqLNcc1TAsqdfvHpixMFGADXTxN4efchqKhCe4opump
 > Next Generation Token Discovery & Automated Trading.
 
 Tipex BOT is an intelligent trading automation platform built for Solana, combining real-time token discovery, algorithmic execution, and human decision-making into one seamless trading experience.
